@@ -1,0 +1,4 @@
+node_modules/
+*.js
+*code-workspace
+*THIS-PROJECT-INFO*
