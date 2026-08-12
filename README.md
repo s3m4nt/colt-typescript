@@ -1,4 +1,4 @@
-# Colt TypeScript
+# TypeScript
 
 A minimal TypeScript project demonstrating core language features and setup for compilation and execution.
 
