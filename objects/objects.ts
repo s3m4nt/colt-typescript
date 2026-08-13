@@ -1,0 +1,1 @@
+function printName(person: {first: string, last: string}) {}
